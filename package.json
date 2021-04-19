@@ -1,0 +1,18 @@
+{
+  "private": false,
+  "version": "0.2.3",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gridsome develop",
+    "dev": "gridsome develop",
+    "explore": "gridsome explore",
+    "build": "gridsome build"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.23",
+    "gridsome-plugin-tailwindcss": "^3.0.1"
+  },
+  "devDependencies": {
+    "netlify-plugin-gridsome-cache": "^1.0.3"
+  }
+}
