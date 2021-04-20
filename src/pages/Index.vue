@@ -46,7 +46,7 @@
 
     <h2>Consequences of the Colonialism</h2>
     <p>
-      
+
     </p>
     <g-link to="/example/">
       <font-awesome :icon="['fas', 'arrow-right']"/> Example Page
@@ -65,7 +65,7 @@ query {
 <script>
 export default {
   metaInfo: {
-    title: "History of Nigeria"
+    title: "History of Nigeria 🌍"
   }
 };
 </script>
