@@ -61,7 +61,7 @@ query {
 <script>
 export default {
   metaInfo: {
-    title: "History of Nigeria 🌍"
+    title: "History of Nigeria"
   }
 };
 </script>

@@ -18,7 +18,7 @@ query {
 <script>
 export default {
   metaInfo: {
-    title: "Example Page 📄"
+    title: "Example Page"
   }
 };
 </script>
