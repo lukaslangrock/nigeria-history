@@ -19,26 +19,28 @@
 
     <h2>Colonialism</h2>
     <p>
-      <ul>
-        <li>
-          <g-link to="/example/"><strong>1862</strong> 🛡️ <font-awesome :icon="['fas', 'arrow-right']"/> Britain makes Nigeria a protectorate</g-link>
-        </li>
-        <li>
-          <g-link to="/example/"><strong>1886</strong> 👑 <font-awesome :icon="['fas', 'arrow-right']"/> Brtain makes it a crown colony</g-link>
-        </li>
-        <li>
-          <g-link to="/example/"><strong>1899</strong> 🇬🇧 <font-awesome :icon="['fas', 'arrow-right']"/> All land sold to the UK</g-link>
-        </li>
-        <li>
-          <g-link to="/example/"><strong>1914</strong> ☯️ <font-awesome :icon="['fas', 'arrow-right']"/> North & south colonies united</g-link>
-        </li>
-        <li>
-          <g-link to="/example/"><strong>1950</strong> ↔️ <font-awesome :icon="['fas', 'arrow-right']"/> Colonies split up into north, southwest, and southeast</g-link>
-        </li>
-        <li>
-          <g-link to="/example/"><strong>1960</strong> ✊ <font-awesome :icon="['fas', 'arrow-right']"/> Independence</g-link>
-        </li>
-      </ul>
+      <div>
+        <ul>
+          <li>
+            <g-link to="/example/"><strong>1862</strong> 🛡️ <font-awesome :icon="['fas', 'arrow-right']"/> Britain makes Nigeria a protectorate</g-link>
+          </li>
+          <li>
+            <g-link to="/example/"><strong>1886</strong> 👑 <font-awesome :icon="['fas', 'arrow-right']"/> Brtain makes it a crown colony</g-link>
+          </li>
+          <li>
+            <g-link to="/example/"><strong>1899</strong> 🇬🇧 <font-awesome :icon="['fas', 'arrow-right']"/> All land sold to the UK</g-link>
+          </li>
+          <li>
+            <g-link to="/example/"><strong>1914</strong> ☯️ <font-awesome :icon="['fas', 'arrow-right']"/> North & south colonies united</g-link>
+          </li>
+          <li>
+           <g-link to="/example/"><strong>1950</strong> ↔️ <font-awesome :icon="['fas', 'arrow-right']"/> Colonies split up into north, southwest, and southeast</g-link>
+          </li>
+          <li>
+            <g-link to="/example/"><strong>1960</strong> ✊ <font-awesome :icon="['fas', 'arrow-right']"/> Independence</g-link>
+          </li>
+        </ul>
+      </div>
     </p>
 
     <h2>Consequences of the Colonialism</h2>
