@@ -4,9 +4,20 @@
 import DefaultLayout from '~/layouts/Default.vue'
 import '~/assets/css/base.postcss'
 
+// font awesome
+import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
+import { config, library } from '@fortawesome/fontawesome-svg-core'
+import { faArrowRight } from '@fortawesome/free-solid-svg-icons'
+import '@fortawesome/fontawesome-svg-core/styles.css'
+config.autoAddCss = false;
+library.add(faArrowRight)
+
 export default function(Vue, { router, head, isClient }) {
   // Set default layout as a global component
   Vue.component('Layout', DefaultLayout)
+
+  // Use fontawesome
+  Vue.component('font-awesome', FontAwesomeIcon)
 
   head.htmlAttrs = { lang: 'en' }
   head.bodyAttrs = { class: 'antialiased font-body font-serif' }
@@ -20,7 +31,7 @@ export default function(Vue, { router, head, isClient }) {
   // Basic meta tags
   head.meta.push({
     name: 'author',
-    content: 'Lennart Müller and Lukas Langrock',
+    content: 'Lennart Schröder and Lukas Langrock',
   })
 
   head.meta.push({
