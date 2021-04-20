@@ -25,7 +25,7 @@ export default function(Vue, { router, head, isClient }) {
   // Styles
   head.link.push({
     rel: 'stylesheet',
-    href: 'https://fonts.googleapis.com/css?family=Great+Vibes|Libre+Baskerville&display=swap',
+    href: 'https://fonts.googleapis.com/css?family=Playfair+Display|Libre+Baskerville&display=swap',
   })
 
   // Basic meta tags
