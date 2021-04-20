@@ -3,15 +3,18 @@
     <!-- Replace everything inside this Layout with your own content -->
     <!-- The main container CSS classes are in `src/layouts/Default.vue` -->
 
-    <div class="mt-8 md:mt-16 flex flex-wrap items-center justify-center">
-      <div>
-        <h1 class="font-maintitle text-5xl sm:text-7xl block text-center sm:pr-8 text-gray-700">
-          {{ $static.metadata.siteName }}
-        </h1>
-      </div>
+    <div class="mt-8 items-center">
+      <h1 class="font-maintitle text-5xl sm:text-7xl block text-center sm:pr-8 text-gray-700">
+        {{ $static.metadata.siteName }}
+      </h1>
+
+      <p class="text-center">
+        This website aims to inform about Nigeria's history, especially the time of colonialism and it's connection to the UK and Britain.
+        It is a school project by students at the Pelizaeus Gymnasium Paderborn. The source code is avilable on <a href="https://github.com/lukaslangrock/nigeria-history">GitHub</a>.
+      </p>
 
       <g-image
-        class="block"
+        class="block rounded shadow"
         alt="Aerial photography of houses and buildings in Enugu, Nigeria. Photo by Ovinuchi Ejiohuo on Unsplash"
         src="~/assets/img/ovinuchi-ejiohuo-OxesnxkySD0-unsplash.jpg"
       />
