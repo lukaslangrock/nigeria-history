@@ -15,7 +15,7 @@
         <br />Lennart Schröder curated and proposed the articles and information and I (Lukas Langrock) worked on the website.
         <br />
         <br />The project is part of a collaboration between two classes with multiple digital projects spread between small groups of students.
-        The Theme of the collaboration was our current topic Nigeria.
+        The theme of the collaboration was our current topic Nigeria.
     </p>
     <h2>The Website</h2>
     <p>
