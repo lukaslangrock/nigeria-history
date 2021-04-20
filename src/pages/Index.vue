@@ -11,6 +11,7 @@
       <p class="text-center">
         This website aims to inform you about Nigeria's history and is focussed especially on the time of colonialism and its connection to the UK.
         It is a school project by students at the Pelizaeus Gymnasium Paderborn. The source code is available on <a href="https://github.com/lukaslangrock/nigeria-history">GitHub</a>.
+        <g-link to="/about/">Learn More</g-link>.
       </p>
 
       <g-image
