@@ -8,15 +8,13 @@
       Hosted by Lukas Langrock 💻
       <br />
       <br /><g-link to="/about/">About</g-link>
-       - <a class="underline text-green-700" href="https://langrock.info/imprint">Imprint</a>
-       - <a class="underline text-green-700" href="https://langrock.info/privacy">Privacy Policy</a>
+       - <a href="https://langrock.info/imprint">Imprint</a>
+       - <a href="https://langrock.info/privacy">Privacy Policy</a>
       <br />
       &copy; Ville Säävuori (<a
-        class="underline text-green-700"
         href="https://twitter.com/uninen"
         >@uninen</a>) 2020, MIT License <br />
       &copy; <a
-        class="underline text-green-700"
         href="https://fontawesome.com/license/free"
         >Font Awesome Free License</a>, CC BY 4.0
     </p>
