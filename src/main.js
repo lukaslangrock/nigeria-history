@@ -67,6 +67,6 @@ export default function(Vue, { router, head, isClient }) {
 
   head.meta.push({
     name: 'twitter:title',
-    content: 'Tulip - Single Page Gridsome Starter',
+    content: 'History of Nigeria - A School Project Website',
   })
 }
