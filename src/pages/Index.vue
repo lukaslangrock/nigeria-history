@@ -12,7 +12,7 @@
 
       <g-image
         class="block"
-        alt="Tulip"
+        alt="Aerial photography of houses and buildings in Enugu, Nigeria. Photo by Ovinuchi Ejiohuo on Unsplash"
         src="~/assets/img/ovinuchi-ejiohuo-OxesnxkySD0-unsplash.jpg"
       />
     </div>
