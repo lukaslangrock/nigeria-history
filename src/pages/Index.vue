@@ -28,35 +28,35 @@
     <h3>1862 🛡️ <font-awesome :icon="['fas', 'arrow-right']"/> Britain makes Nigeria a protectorate</h3>
     <p>
       <strong>Britain turns Nigeria into a protectorate.</strong>
-      After that the Europeans traded with the Nigerian society only by using ships, but they didn't go onto the land, because they were afraid of diseases.
-      <br />But in the middle of the 19th century the situation changed and Britains dared to go on expeditions.
-      <br />The result of that was, that Britain turned Nigeria into a so-called protectorate, which means, that Britain controlled the foreign policy, but had no direct influence on the country.
+      After that the Europeans traded with the Nigerian society only by using ships, but they didn't move forward, as they were afraid of diseases.
+      <br />But in the middle of the 19th century the situation changed and the Britains dared to go on expeditions.
+      <br />The result of that was Britain turning Nigeria into a so-called protectorate, which means that Britain controlled the foreign policy but had no direct influence on the country.
     </p>
 
     <h3>1886 👑 <font-awesome :icon="['fas', 'arrow-right']"/> Britain makes it a crown colony</h3>
     <p>
       <strong>Britain turns Nigeria into a crown colony.</strong>
-      Nigeria now gets directly ruled by Britain and is under their control.
+      Nigeria now got directly ruled by Britain and is under it's control.
     </p>
 
     <h3>1899 🇬🇧 <font-awesome :icon="['fas', 'arrow-right']"/> All land sold to the UK</h3>
     <p>
       <strong>Land sold to Britain.</strong>
       The „Royal Niger Company“, which belongs to the UK, captured a lot of land in the middle of Nigeria and protected it as a company by their own form of other countries who also wanted the land.
-      <br />But eventually they sold all their captured land to the British government.
+      <br />Nevertheless they eventually sold all their captured land to the British government.
       The UK now slowly began to capture the rest of the land.
     </p>
 
     <h3>1914 ☯️ <font-awesome :icon="['fas', 'arrow-right']"/> North & south colonies united</h3>
     <p>
       <strong>North- and south Nigeria get merged.</strong>
-      <br />The colony first was split into two separate parts: north- and south Nigeria.
-      <br />These two colonies now got united to one big colony, but the society was still split.
+      <br />The colony was first split into two separate parts: north- and south Nigeria.
+      <br />These two colonies got united into one big colony but their society was still split apart.
     </p>
 
     <h3>1954 ↔️ <font-awesome :icon="['fas', 'arrow-right']"/> Colonies split up into north, southwest, and southeast</h3>
     <p>
-      <strong>Nigeria gets split up in north, south-west and south-east.</strong>
+      <strong>Nigeria gets split up in north, south-west, and south-east.</strong>
       All of them have their own administration and parliament. This should decentralize the country.
     </p>
 
@@ -80,7 +80,7 @@
     <p>
       Due to the arbitrary setting of borders, ethnic disparities arose, as peoples with completely different views, rules and ways of life suddenly had to get along with each other.
       This could be seen as the main reason for the civil war.
-      <br />Also the country had lost a lot of money because of the british sway.
+      <br />Also the country had lost a lot of money because of the British sway.
       This still effects the Nigerian economy.
     </p>
   </Layout>
