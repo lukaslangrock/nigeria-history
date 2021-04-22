@@ -69,7 +69,7 @@
     <br />
     <g-image
         class="block rounded shadow"
-        alt="Aerial photography of houses and buildings in Enugu, Nigeria. Photo by Ovinuchi Ejiohuo on Unsplash"
+        alt="Picture of boats on a sea as a symbol for colonialism"
         src="~/assets/img/flo-p-zpmvpEXM_Qc-unsplash.jpg"
     />
     <p>
