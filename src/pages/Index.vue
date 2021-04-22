@@ -42,7 +42,7 @@
     <h3>1899 🇬🇧 <font-awesome :icon="['fas', 'arrow-right']"/> All land sold to the UK</h3>
     <p>
       <strong>Land sold to Britain.</strong>
-      The „Royal Niger Company“, which belongs to the UK, captured a lot of land in the middle of Nigeria and protected it as a company by their own form of other countries who also wanted the land.
+      The „Royal Niger Company“, which belongs to the UK, captured a lot of land in the middle of Nigeria and protected it as a company on their own form of other countries who also wanted the land.
       <br />Nevertheless they eventually sold all their captured land to the British government.
       The UK now slowly began to capture the rest of the land.
     </p>
