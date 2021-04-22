@@ -85,7 +85,7 @@
     </p>
 
     <br />
-    <div class="text-center mt-16">
+    <div class="text-center">
         <a href="https://www.youtube.com/watch?v=LWaSgYUTC0k">
           <button class="bg-white hover:bg-red-100 text-gray-800 font-semibold py-2 px-4 hover:text-black py-2 px-4 border border-gray-400 hover:border-red-400 rounded shadow">
             <font-awesome :icon="['fab', 'youtube']"/> Watch a video to learn more
