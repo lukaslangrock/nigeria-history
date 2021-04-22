@@ -19,6 +19,9 @@
         alt="Aerial photography of houses and buildings in Enugu, Nigeria. Photo by Ovinuchi Ejiohuo on Unsplash"
         src="~/assets/img/ovinuchi-ejiohuo-OxesnxkySD0-unsplash.jpg"
       />
+      <p>
+        Photo by <a href="https://unsplash.com/@oviidaniel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ovinuchi Ejiohuo</a> on <a href="https://unsplash.com/s/photos/nigeria?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      </p>
     </div>
 
     <h2>Colonialism</h2>
@@ -61,6 +64,16 @@
     <p>
       <strong>Nigeria becomes an independent state.</strong>
       <br />Britain releases Nigeria into the independence.
+    </p>
+
+    <br />
+    <g-image
+        class="block rounded shadow"
+        alt="Aerial photography of houses and buildings in Enugu, Nigeria. Photo by Ovinuchi Ejiohuo on Unsplash"
+        src="~/assets/img/flo-p-zpmvpEXM_Qc-unsplash.jpg"
+    />
+    <p>
+        Photo by <a href="https://unsplash.com/@nattyflo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Flo P</a> on <a href="https://unsplash.com/s/photos/colonialism?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
     </p>
 
     <h2>Consequences of the Colonialism</h2>
