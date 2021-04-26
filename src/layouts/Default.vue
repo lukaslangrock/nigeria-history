@@ -11,12 +11,10 @@
        - <a href="https://langrock.info/imprint">Imprint</a>
        - <a href="https://langrock.info/privacy">Privacy Policy</a>
       <br />
-      &copy; Ville Säävuori (<a
-        href="https://twitter.com/uninen"
-        >@uninen</a>) 2020, MIT License <br />
-      &copy; <a
-        href="https://fontawesome.com/license/free"
-        >Font Awesome Free License</a>, CC BY 4.0
+      &copy; Lukas Langrock, Ville Säävuori (<a href="https://twitter.com/uninen" >@uninen</a>) 2020,
+      <a href ="https://github.com/lukaslangrock/nigeria-history/blob/master/LICENSE.md"> MIT License</a><br />
+      &copy; <a href="https://fontawesome.com/license/free">Font Awesome Free License</a>,
+      <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
     </p>
   </div>
 </template>
