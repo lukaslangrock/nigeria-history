@@ -19,41 +19,44 @@
         alt="Aerial photography of houses and buildings in Enugu, Nigeria. Photo by Ovinuchi Ejiohuo on Unsplash"
         src="~/assets/img/ovinuchi-ejiohuo-OxesnxkySD0-unsplash.jpg"
       />
+      <p>
+        Photo by <a href="https://unsplash.com/@oviidaniel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ovinuchi Ejiohuo</a> on <a href="https://unsplash.com/s/photos/nigeria?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      </p>
     </div>
 
     <h2>Colonialism</h2>
     <h3>1862 🛡️ <font-awesome :icon="['fas', 'arrow-right']"/> Britain makes Nigeria a protectorate</h3>
     <p>
       <strong>Britain turns Nigeria into a protectorate.</strong>
-      After that the Europeans traded with the Nigerian society only by using ships, but they didn't go onto the land, because they were afraid of diseases.
-      <br />But in the middle of the 19th century the situation changed and Britains dared to go on expeditions.
-      <br />The result of that was, that Britain turned Nigeria into a so-called protectorate, which means, that Britain controlled the foreign policy, but had no direct influence on the country.
+      After that the Europeans traded with the Nigerian society only by using ships, but they didn't move forward, as they were afraid of diseases.
+      <br />But in the middle of the 19th century the situation changed and the Britains dared to go on expeditions.
+      <br />The result of that was Britain turning Nigeria into a so-called protectorate, which means that Britain controlled the foreign policy but had no direct influence on the country.
     </p>
 
     <h3>1886 👑 <font-awesome :icon="['fas', 'arrow-right']"/> Britain makes it a crown colony</h3>
     <p>
       <strong>Britain turns Nigeria into a crown colony.</strong>
-      Nigeria now gets directly ruled by Britain and is under their control.
+      Nigeria now got directly ruled by Britain and is under it's control.
     </p>
 
     <h3>1899 🇬🇧 <font-awesome :icon="['fas', 'arrow-right']"/> All land sold to the UK</h3>
     <p>
       <strong>Land sold to Britain.</strong>
-      The „Royal Niger Company“, which belongs to the UK, captured a lot of land in the middle of Nigeria and protected it as a company by their own form of other countries who also wanted the land.
-      <br />But eventually they sold all their captured land to the British government.
+      The „Royal Niger Company“, which belongs to the UK, captured a lot of land in the middle of Nigeria and protected it as a company on their own form of other countries who also wanted the land.
+      <br />Nevertheless they eventually sold all their captured land to the British government.
       The UK now slowly began to capture the rest of the land.
     </p>
 
     <h3>1914 ☯️ <font-awesome :icon="['fas', 'arrow-right']"/> North & south colonies united</h3>
     <p>
       <strong>North- and south Nigeria get merged.</strong>
-      <br />The colony first was split into two separate parts: north- and south Nigeria.
-      <br />These two colonies now got united to one big colony, but the society was still split.
+      <br />The colony was first split into two separate parts: north- and south Nigeria.
+      <br />These two colonies got united into one big colony but their society was still split apart.
     </p>
 
     <h3>1954 ↔️ <font-awesome :icon="['fas', 'arrow-right']"/> Colonies split up into north, southwest, and southeast</h3>
     <p>
-      <strong>Nigeria gets split up in north, south-west and south-east.</strong>
+      <strong>Nigeria gets split up in north, south-west, and south-east.</strong>
       All of them have their own administration and parliament. This should decentralize the country.
     </p>
 
@@ -63,13 +66,44 @@
       <br />Britain releases Nigeria into the independence.
     </p>
 
+    <br />
+    <g-image
+        class="block rounded shadow"
+        alt="Picture of boats on a sea as a symbol for colonialism"
+        src="~/assets/img/flo-p-zpmvpEXM_Qc-unsplash.jpg"
+    />
+    <p>
+        Photo by <a href="https://unsplash.com/@nattyflo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Flo P</a> on <a href="https://unsplash.com/s/photos/colonialism?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+    </p>
+
     <h2>Consequences of the Colonialism</h2>
     <p>
       Due to the arbitrary setting of borders, ethnic disparities arose, as peoples with completely different views, rules and ways of life suddenly had to get along with each other.
       This could be seen as the main reason for the civil war.
-      <br />Also the country had lost a lot of money because of the british sway.
+      <br />Also the country had lost a lot of money because of the British sway.
       This still effects the Nigerian economy.
     </p>
+
+    <div class="text-center mt-8 mb-8">
+      <a href="https://www.youtube.com/watch?v=LWaSgYUTC0k">
+        <button class="bg-white hover:bg-red-100 text-gray-800 font-semibold py-2 px-4 hover:text-black py-2 px-4 border border-gray-400 hover:border-red-400 rounded shadow">
+          <font-awesome :icon="['fab', 'youtube']"/> Watch a video to learn more
+        </button>
+      </a>
+    </div>
+
+    <h3>The name of Nigeria</h3>
+    <p>
+      Although the British colonialism on Nigeria had lots of bad impact on the country, there was actually a positive thing that came from it:
+      <br />
+      <br /><strong>Did you know that the name Nigeria was actually given to the country by a British journalist?</strong>
+      It was Flora Shaw who was responsible for the name that we know today.
+      <br />She later married Lord Frederick Lugard, the governor of both the Northern and Southern protectorates of Nigeria.
+      <br />
+      <br />The name was formed from the words "Niger", the longest river in the country, and "Area".
+      Over time the words merged together to form "Nigeria", which has been the name of the country ever since.
+    </p>
+
   </Layout>
 </template>
 

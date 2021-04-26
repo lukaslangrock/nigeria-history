@@ -8,9 +8,10 @@ import '~/assets/css/base.postcss'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import { config, library } from '@fortawesome/fontawesome-svg-core'
 import { faHome, faArrowRight } from '@fortawesome/free-solid-svg-icons'
+import { faYoutube } from '@fortawesome/free-brands-svg-icons'
 import '@fortawesome/fontawesome-svg-core/styles.css'
 config.autoAddCss = false;
-library.add(faHome, faArrowRight)
+library.add(faHome, faArrowRight, faYoutube)
 
 export default function(Vue, { router, head, isClient }) {
   // Set default layout as a global component
